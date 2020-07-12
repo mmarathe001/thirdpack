@@ -1,0 +1,13 @@
+{
+    "name": "marathemahesh/secondpack",
+    "description": "demo",
+    "type": "library",
+    "license": "mit",
+    "minimum-stability": "stable",
+    "require": {},
+	"autoload":{
+				"psr-4":{
+							"mahesh\\printpage\\" : "src/"
+						}
+				}
+}
